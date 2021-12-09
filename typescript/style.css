@@ -1,0 +1,19 @@
+.parentDivStyle {
+   padding-left: 50px;
+    padding-right: 50px;
+}
+
+.childDivStyle {
+    display: flex;
+    justify-content: center;
+}
+
+.pStyle {
+    text-align: center;
+}
+
+.inputAndButton {
+    width: 210px;
+    box-sizing: border-box;
+}
+
